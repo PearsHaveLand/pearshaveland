@@ -19,9 +19,7 @@ Outside the computing world, you'll often find me in the kitchen or behind the D
 
 Here's a picture of one of my most photogenic loaves of bread 😋
 
-<div style="text-align: center">
-    <img src="cronchy.jpg" alt="Image of some very tasty bread" width="400">
-</div>
+![Image of some very tasty bread](cronchy.jpg)
 
 That's all for now, folks!
 
