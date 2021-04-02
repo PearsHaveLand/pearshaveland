@@ -21,6 +21,12 @@ Here's a picture of one of my most photogenic loaves of bread 😋
 
 ![Image of some very tasty bread](cronchy.jpg)
 
+### What I'm Working On
+
+Right now, I'm not working on any significant side projects. But I've been sharpening my skills with Golang with the [Daily Coding Problem](https://www.dailycodingproblem.com/) newsletter, which I highly recommend for anyone in software development.
+
+Thanks for scrolling through all this!
+
 That's all for now, folks!
 
 ### Footnotes
