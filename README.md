@@ -17,15 +17,22 @@ I'm a software developer looking to use my powers for good. With a focus on priv
 
 Outside the computing world, you'll often find me in the kitchen or behind the DM screen<sup>1</sup>. One of my hobbies is creating new dishes as "from scratch" as possible. If you're ever a player in one of my Dungeons and Dragons games, you're guaranteed to have some homemade snacks waiting for you!
 
-Here's a picture of one of my most photogenic loaves of bread 😋
-
-![Image of some very tasty bread](cronchy.jpg)
-
 ### What I'm Working On
 
 Right now, I'm not working on any significant side projects. But I've been sharpening my skills with Golang with the [Daily Coding Problem](https://www.dailycodingproblem.com/) newsletter, which I highly recommend for anyone in software development.
 
-Thanks for scrolling through all this!
+In addition, I'm trying to fill in some gaps in my developer experience. Examples include but are not limited to:
+
+⬛ AWS
+
+⬛ Kubernetes
+
+⬛ AGILE
+
+As a thanks for scrolling through all this, here's a picture of one of my most photogenic loaves of bread 😋
+
+![Image of some very tasty bread](cronchy.jpg)
+
 
 That's all for now, folks!
 
