@@ -19,7 +19,9 @@ Outside the computing world, you'll often find me in the kitchen or behind the D
 
 ### What I'm Working On
 
-Right now, I'm not working on any significant side projects. But I've been sharpening my skills with Golang with the [Daily Coding Problem](https://www.dailycodingproblem.com/) newsletter, which I highly recommend for anyone in software development.
+I'm building another keyboard! Go check out the [Corne 40% split keyboard](https://github.com/foostan/crkbd).
+
+I've also been sharpening my skills with Python and Golang with the [Daily Coding Problem](https://www.dailycodingproblem.com/) newsletter, which I highly recommend for anyone in software development.
 
 In addition, I'm trying to fill in some gaps in my developer experience. Examples include but are not limited to:
 
@@ -27,7 +29,7 @@ In addition, I'm trying to fill in some gaps in my developer experience. Example
 
 ⬛ Kubernetes
 
-⬛ AGILE
+⬛ AGILE (I know, I learned about it in college and need some refreshing)
 
 As a thanks for scrolling through all this, here's a picture of one of my most photogenic loaves of bread 😋
 
